@@ -1,3 +1,3 @@
 # htmlresume
 
-¨[https://geekrovira.github.io/htmlresume/]
+¨[Visit Me](https://geekrovira.github.io/htmlresume/)
